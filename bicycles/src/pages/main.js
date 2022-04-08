@@ -1,3 +1,5 @@
+import Footer from '../components/'
+
 function Main(){
     return(
         <>
