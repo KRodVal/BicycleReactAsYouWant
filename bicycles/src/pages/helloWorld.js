@@ -1,8 +1,12 @@
 
-function HelloWorld(){
+function HelloWorld() {
     return (
-        <p>Hey Smuke Hello World!!!</p>
+        <>
+            <p>Hey Smuke Hello World!!!</p>
+            <Footer />
+        </>
+        
     );
 }
 
-export default HelloWorld
+export default HelloWorld;
