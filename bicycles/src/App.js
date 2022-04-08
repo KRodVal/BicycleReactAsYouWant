@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import HelloWorld from './pages/HelloWorld';
+import HelloWorld from './pages/helloWorld.js';
 import Main from './pages/main';
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
 
